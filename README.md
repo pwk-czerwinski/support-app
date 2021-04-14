@@ -1,7 +1,7 @@
 # Support App
 
 Demo live version:
-https://my-favourite-videos.herokuapp.com/
+https://support-app-1.herokuapp.com/
 
 ## Available Scripts
 
